@@ -1,0 +1,82 @@
+.form-add{
+    margin-left: 25% ;
+    margin-top: 10% ;
+    background-color: #cc4b2c;
+    width: 50%;
+    padding: 10px 20px;
+    padding-bottom: 20px;
+    border-radius: 24px;
+}
+
+.form-train input{
+    border-radius: 5px;   
+}
+.form-train input:focus{
+    outline: none;
+}
+.form-tontang input{
+    border-radius: 5px;   
+}
+.form-tontang input:focus{
+    outline: none; 
+}
+.form-huyrach input{
+    border-radius: 5px;   
+}
+.form-huyrach input:focus{
+    outline: none;
+}
+.form-praytang input{
+    border-radius: 5px;   
+}
+.form-praytang input:focus{
+    outline: none; 
+}
+input[type="submit"]{
+    margin-left: 90%;
+}
+
+table{
+    margin-top: 5% ;
+    margin-left: 25%;
+    width: 50%;
+    text-align: center
+}
+#r1{
+    background-color:#cc4b2c
+}
+.back-login{
+
+    margin-top: 5% ;
+    margin-left: 10%;
+}
+.button{ 
+    text-decoration: none;
+    border: 1px solid #cc4b2c;
+    padding: 10px 20px;
+    border-radius: 24px;
+    color:  #cc4b2c
+    ;
+    
+}
+
+.button:hover{
+    background-color: #cc4b2c;
+    color: #fff;
+    box-shadow: 0 0 20px #cc4b2c;
+}
+.a{
+    text-decoration: none;
+    border: 1px solid #fff;
+    padding: 10px 20px;
+    border-radius: 24px;
+    color:  #fff
+    ;
+}
+.a:hover{
+    background-color: #fff;
+    color: #cc4b2c;
+    box-shadow: 0 0 20px #fff;
+}  
+
+    
